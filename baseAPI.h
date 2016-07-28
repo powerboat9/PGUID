@@ -10,3 +10,6 @@ double getZ();
 
 void setMotor(int motorID);
 void getMotor(int motorID);
+void getMotors();
+
+int MOTORS;
