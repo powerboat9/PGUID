@@ -4,9 +4,9 @@ bool hasGPS();
 double getYaw();
 double getRoll();
 
-double getX();
-double getY();
-double getZ();
+long getX();
+long getY();
+long getZ();
 
 void setMotor(int motorID);
 void getMotor(int motorID);
